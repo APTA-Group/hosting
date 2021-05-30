@@ -1,1 +1,1 @@
-# hosting
+This repository is for temporary use. The idea is to host static files here (e.g. JSON files) for development/testing porposes. For production enviroments, we must consider other tools, such as S3 or https://strapi.io/.
